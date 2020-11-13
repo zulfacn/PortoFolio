@@ -1,6 +1,6 @@
 # Data Analysis and Data Science Hub
 ## Sharing Knowledge in Data Analysis, Data Science and Machine Learning 
-Any given feedbacks will be appraciated. The challenge used in this respiratory are challenge given to me in order to complete our training. 
+Any given feedbacks will be appraciated. The challenge used in this respiratory are challenge given to me in order to complete my Data Scientist training. 
 
 #### I use Google Colab to write coding in pyhton 
 
