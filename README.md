@@ -14,7 +14,7 @@ Any given feedbacks will be appraciated. The challenge used in this respiratory 
 3. <b>[Worldwide GHG and Emisson Analysis ](https://github.com/zulfacn/PortoFolio/blob/master/GHG_Emission_and_Electricity_to_Climate_Change.ipynb)</b>
 
 
-# Contact for Help
+# Contact for Feedback
 | Contact        | Info           | 
 | ------------- |:-------------:|
 | <b>Email</b>      | zulfacn@gmail.com  | 
